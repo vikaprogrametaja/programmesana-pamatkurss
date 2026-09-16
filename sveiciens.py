@@ -1,1 +1,1 @@
-print("Mans pirmais snus!")
+print("Mans pirmais vektors!")
