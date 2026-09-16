@@ -1,1 +1,1 @@
-print("Mans pirmais vektors!")
+print("Mans pirmais vektors!:D")
