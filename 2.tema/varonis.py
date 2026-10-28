@@ -1,0 +1,6 @@
+a = input("Pirmais skaitlis: ")
+b = input("Otrais skaitlis: ")
+print(a + b)
+a = int(input("Pirmais skaitlis: "))
+b = int(input("Otrais skaitlis: "))
+print(a + b)

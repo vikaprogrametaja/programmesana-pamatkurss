@@ -1,3 +1,4 @@
 # programmesana-pamatkurss
 f definē un sasaista lietotājvārdu un saiti. f kaut kā atsauc iepriekš raxtīto, izmantojot f un {} printējot tas pārvēš komandas parastā textā 
-elatīvais ceļš rāda kura mapē tu atrodies un kuru failu tu redģē 
+citās reizēs viens ceļš strādā bet citās nē, jo sakotnējā mape no kuras tu sāc nestrādā
+
