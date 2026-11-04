@@ -35,4 +35,12 @@ ValueError: could not convert string to float. ievadot burtus vietā kur jāieva
 
 vissliktakā kļūda ir ievadīt burtus, jo tad nekads skaitlisks rezultats vairs nav. 
 
+print(17 / 5)rez bija 3.4  print(17 // 5)rez bija 3  print(17 % 5)rez bija 2
+
+print(2 ** 3) rez bija 8
+
+print(f"Vidēji {videji} somas") rezultātā bija daudz ciparu aiz komata. 
+
+{:.1f} tas nosaka cik ciparus aiz komata rādīs rezultāts. piemēram tagad ir .1f, tādēļ bija viens cipars aiz komata
+
 
