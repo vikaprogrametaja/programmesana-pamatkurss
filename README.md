@@ -8,8 +8,11 @@ f definē un sasaista lietotājvārdu un saiti. f kaut kā atsauc iepriekš raxt
 citās reizēs viens ceļš strādā bet citās nē, jo sakotnējā mape no kuras tu sāc nestrādā
 ## 
 **man gribas mājaās un es cenšos šo pabeigt**
+##
 viņš nav parasts texta fails jo veicot visus soļus, taxts parādās git hub kā texts nevis kā kods 
+##
 print(type(c)) ir float. print(type(b)) ir int. print(type(a)) ir str
+##
 raxtot 10 ar kā vārdu "desmit" kļūda rādās 12. rindā treminālī/nepareizi ievadu kodu 9. rindai kodā. Ieraxtot 1,5 arī rādās valueError
 komatus programmēšanas valoda neatpazīst. tas tāpat kā excel
 a = input("Pirmais skaitlis: ")
